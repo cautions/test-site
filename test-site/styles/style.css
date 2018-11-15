@@ -1,10 +1,25 @@
+body {
+    border: 5px solid black;
+    padding: 0 20px 20px 20px;
+}
 img {
     display: block;
     width: 200px;
+    margin: 0 auto;
 }
 
 h1 {
+    font-size: 60px;
     color: gray;
     text-align: center;
 }
 
+p {
+    font-size: 16px;
+    line-height: 2;
+    text-align: center;
+}
+
+ul {
+    padding: auto;
+}
